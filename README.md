@@ -1,15 +1,24 @@
 <!-- Banner -->
-<img src="data-code.gif" alt="Banner" width="100%"/>
+<img src="banner.png" alt="Banner" width="100%"/>
 
 # 👋 Hey there, I'm Dhruv Mendiratta  
 
 🎓 Final-year **Computer Science Engineering student** | 🧠 **AI/ML Engineer** | ☁️ **Cloud Enthusiast**  
 ✨ *I turn data and code into intelligent, scalable, and impactful solutions.*  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/dhruvmendiratta18){:target="_blank"} 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=vercel)](https://dhruv-portfolio-bay.vercel.app){:target="_blank"} 
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:dhruv.mendiratta4@gmail.com){:target="_blank"}  
-![Profile Views](https://komarev.com/ghpvc/?username=dhruvm-18&style=flat-square&color=brightgreen)  
+<!-- Social Buttons -->
+<div align="center">
+  <a href="https://linkedin.com/in/dhruvmendiratta18" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" height="35"/>
+  </a>
+  <a href="https://dhruv-portfolio-bay.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?logo=vercel&style=for-the-badge" height="35"/>
+  </a>
+  <a href="mailto:dhruv.mendiratta4@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge" height="35"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=dhruvm-18&style=for-the-badge&color=brightgreen" height="35"/>
+</div>  
 
 ---
 
