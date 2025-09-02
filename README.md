@@ -1,14 +1,14 @@
 <!-- Banner -->
-<img src="https://github.com/dhruvm-18/dhruvm-18/blob/main/assets/banner.gif" alt="Banner" width="100%"/>
+<img src="data-code.gif" alt="Banner" width="100%"/>
 
 # 👋 Hey there, I'm Dhruv Mendiratta  
 
 🎓 Final-year **Computer Science Engineering student** | 🧠 **AI/ML Engineer** | ☁️ **Cloud Enthusiast**  
 ✨ *I turn data and code into intelligent, scalable, and impactful solutions.*  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/dhruvmendiratta18) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=vercel)](https://dhruv-portfolio-bay.vercel.app) 
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:dhruv.mendiratta4@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/dhruvmendiratta18){:target="_blank"} 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=vercel)](https://dhruv-portfolio-bay.vercel.app){:target="_blank"} 
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:dhruv.mendiratta4@gmail.com){:target="_blank"}  
 ![Profile Views](https://komarev.com/ghpvc/?username=dhruvm-18&style=flat-square&color=brightgreen)  
 
 ---
@@ -95,10 +95,55 @@
 
 ## 📊 GitHub Analytics  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvm-18&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvm-18&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-</p>
+<div align="center">
+
+  <!-- Main Stats + Streak -->
+  <a href="https://github.com/dhruvm-18" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=dhruvm-18&show_icons=true&count_private=true&include_all_commits=true&hide_title=false&theme=radical&hide_border=true&rank_icon=percentile"
+      alt="Dhruv's GitHub stats"
+      height="170"
+    />
+  </a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank">
+    <img
+      src="https://streak-stats.demolab.com?user=dhruvm-18&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"
+      alt="Dhruv's GitHub streak"
+      height="170"
+    />
+  </a>
+
+  <!-- Language Mix -->
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvm-18&layout=compact&langs_count=8&theme=radical&hide_border=true"
+      alt="Top languages"
+      height="165"
+    />
+  </a>
+
+  <!-- Activity Graph -->
+  <br/>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvm-18&theme=redical&hide_border=true&area=true"
+      alt="Contribution activity graph"
+      width="100%"
+    />
+  </a>
+
+  <!-- Trophies -->
+  <br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=dhruvm-18&theme=dracula&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&margin-h=10"
+      alt="GitHub trophies"
+      width="100%"
+    />
+  </a>
+
+</div>
 
 ---
 
